@@ -1,3 +1,5 @@
+// Original: https://github.com/chenglou/react-motion/tree/master/demos/demo8-draggable-list
+
 import { render } from 'react-dom'
 import React, { useRef } from 'react'
 import clamp from 'lodash-es/clamp'
